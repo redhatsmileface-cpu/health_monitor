@@ -3,7 +3,7 @@ import datetime
 import os
 
 # CLEAN URL - ensure no brackets or markdown formatting is inside the quotes
-URL_TO_CHECK = "[https://www.google.com](https://www.google.com)"
+URL_TO_CHECK = "[https://https://www.bing.com](https://https://www.bing.com)"
 # RELATIVE PATH - ensures it works on both your PC and the GitHub Server
 LOG_FILE = "uptime_log.txt"
 
