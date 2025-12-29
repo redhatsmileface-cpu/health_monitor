@@ -1,2 +1,3 @@
 [2025-12-29 04:29:17] [https://www.google.com](https://www.google.com) is DOWN (Error: No connection adapters were found for '[https://www.google.com](https://www.google.com)')
 [2025-12-29 07:03:40] [https://www.google.com](https://www.google.com) is DOWN (Error: No connection adapters were found for '[https://www.google.com](https://www.google.com)')
+[2025-12-29 07:48:40] [https://https://www.bing.com](https://https://www.bing.com) is DOWN (Error: No connection adapters were found for '[https://https://www.bing.com](https://https://www.bing.com)')
